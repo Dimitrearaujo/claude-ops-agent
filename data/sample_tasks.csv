@@ -1,0 +1,9 @@
+task,owner,due_date,status
+Enviar relatorio mensal para diretoria,Ana,2026-06-20,pending
+Atualizar contrato do fornecedor X,Ana,2026-06-25,in_progress
+Revisar proposta comercial cliente Y,Bruno,2026-06-18,pending
+Fechar folha de pagamento,Bruno,2026-07-01,done
+Migrar banco de dados para novo servidor,Carla,2026-06-15,pending
+Responder auditoria fiscal,Carla,2026-06-28,pending
+Configurar backup automatico,Diego,2026-07-05,pending
+Treinar equipe no novo sistema,Diego,2026-06-10,in_progress
